@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "6b7b3b965e22b01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e5c68773b67c9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9f19642df31dc30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e45584d846703e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "548a16759f0e882f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d71106cd7da2387a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5c98e724915e656",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4d312a18a068820",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d76cb754f3d68a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3904b513bdaa24b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fefe7bb633b08a23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "coda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd61544e7780a008",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "coda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "672a98a5d54cd493",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ecd281da898c333b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "coda.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c9f19642df31dc30",
+  "lastOpenFiles": [
+    "alberi.md",
+    "coda.md"
+  ]
+}
