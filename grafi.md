@@ -62,3 +62,12 @@ sse #E = #V-1.
 - #E = m 
 0 <= m <= n<sup>2</sup>
 
+### Lista di archi
+1. struttura per i **veritici**
+2. struttura per gli **archi**
+
+Lo spazio occupato è &#U+03B8 (n+m)
+
+### Lista di adiacenza
+1. struttura principale dei **vertici**
+
